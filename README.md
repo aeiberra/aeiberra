@@ -20,22 +20,20 @@
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular&logoColor=DD0031)
 ![VueJS](https://img.shields.io/badge/-VueJS-05122A?style=flat&logo=vue.js&logoColor=35495E)
 ![Strapi](https://img.shields.io/badge/-Strapi-05122A?style=flat&logo=strapi&logoColor=8c4bff)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) <br />
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=gitlab)
+![GitLab](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=gitlab) <br />
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-
 ### ⚙️ GitHub Analytics
-
-<p align="center">
+<p align="center" style="margin-top: 30px;">
 <a href="https://github.com/aeiberra">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aeiberra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aeiberra&layout=compact&langs_count=8&theme=algolia"/>
