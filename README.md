@@ -9,12 +9,12 @@
 📖️ In my free time I like to read and go swimming. I also like hiking and outdoor activities.\
 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ You can shoot me an email at alan@vicinosoftware.com! I'll try to respond as soon as I can.\
-📄 Please have a look at my [Résumé](http://alaniberra.com/) for more details about me. I'm open to feedback and suggestions!
+📄 Please have a look at my [Resume](http://alaniberra.com/) for more details about me. I'm open to feedback and suggestions!
 
 <br />
 <br />
 
-<img alt="Coding" src="./assets/img/programming.gif" align="right" style="max-height: 185px;"/>
+<img alt="Coding" src="./assets/img/programming.gif" align="right" width='320'/>
 
 ### 🛠 Tech Stack
 
