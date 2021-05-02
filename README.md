@@ -14,7 +14,7 @@
 <br />
 <br />
 
-<img alt="Coding" src="./assets/img/coding.gif" align="right"/>
+<img alt="Coding" src="./assets/img/programming.gif" align="right" style="max-height: 185px;"/>
 
 ### 🛠 Tech Stack
 
