@@ -11,6 +11,9 @@
 ✉️ You can shoot me an email at alan@vicinosoftware.com! I'll try to respond as soon as I can.\
 📄 Please have a look at my [Résumé](http://alaniberra.com/) for more details about me. I'm open to feedback and suggestions!
 
+<br />
+<br />
+
 <img alt="Coding" src="./assets/img/coding.gif" align="right"/>
 
 ### 🛠 Tech Stack
@@ -31,6 +34,8 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+<br />
+<br />
 
 ### ⚙️ GitHub Analytics
 <p align="center" style="margin-top: 30px;">
@@ -39,6 +44,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aeiberra&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<br />
+<br />
 
 ### 🤝🏻 Connect with Me
 
